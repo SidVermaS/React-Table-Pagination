@@ -1,0 +1,8 @@
+
+.PassengersTable__background    {
+    padding: 75px;
+}
+.PassengersTable__table    {
+   
+    height: calc(100vh - 200px);
+}
